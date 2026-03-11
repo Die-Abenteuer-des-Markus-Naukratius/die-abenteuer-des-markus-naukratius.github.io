@@ -87,7 +87,7 @@ footer {
 	text-align: center;
 }
 .link-to-story {
-	position: fixed;
+	position: relative;
 	padding: 10px;
 	left: 500px;
 	width: 600px;
@@ -97,9 +97,9 @@ footer {
 .ltstory-text {
 	background-color: hsl(50, 70%, 70%);
 	font-size: 20pt;
-	position: fixed;
-	top: 593px;
-	left: 555px;
+	position: absolute;
+	top: 100px;
+	left: 20px;
 	text-decoration: none;
 	color: black;
 	padding: 5px;
@@ -169,4 +169,5 @@ section > article {
 .style-footer-link {
 	color: hsl(55, 65%, 70%);
 	text-decoration: none;
+
 }
