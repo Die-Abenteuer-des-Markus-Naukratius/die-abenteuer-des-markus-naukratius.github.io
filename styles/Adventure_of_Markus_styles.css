@@ -1,0 +1,172 @@
+.page-header {
+	position: fixed;
+	background-color: hsl(50, 70%, 70%);
+	padding: 20px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 60px;
+	font-size: 15pt;
+}
+.main-title {
+	position: fixed;
+	top: 0;
+	left: 490px;
+	text-align: center;
+}
+.main-menu {
+	position: fixed;
+	background-color: hsl(260, 30%, 5%);
+	top:100px;
+	left: 0;
+	height: 34px;
+	width: 100%;
+}
+div > a {
+	color: hsl(55, 65%, 70%);
+	font-size: 18pt;
+	text-decoration: none;
+}
+.main-menu-option1 {
+	top: 92px;
+	left: 200px;
+	padding: 10px;
+	position: fixed;
+	text-align: center;
+}
+.main-menu-option2 {
+	top: 92px;
+	left: 410px;
+	padding: 10px;
+	position: fixed;
+	text-align: center;
+}
+.main-menu-option3 {
+	top: 92px;
+	left: 680px;
+	padding: 10px;
+	position: fixed;
+	text-align: center;
+}
+.main-menu-option4 {
+	top: 92px;
+	left: 990px;
+	padding: 10px;
+	position: fixed;
+	text-align: center;
+}
+.main-menu-option5 {
+	top: 92px;
+	right: 200px;
+	padding: 10px;
+	position: fixed;
+	text-align: center;
+}
+.main-content {
+	position: fixed;
+	top: 134px;
+	left: 0;
+	width: 100%;
+	height: 750px;
+	padding: 30px;
+	background-color: beige;
+	background-image: url("background_images/background_image1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: auto;
+}
+footer {
+	position: fixed;
+	width: 100%;
+	height: 80px;
+	bottom: 0px;
+	left: 0;
+	background-color: hsl(260, 30%, 5%);
+	color: hsl(55, 65%, 70%);
+	text-align: center;
+}
+.link-to-story {
+	position: fixed;
+	padding: 10px;
+	left: 500px;
+	width: 600px;
+	height: 490px;
+	text-align: center;
+}
+.ltstory-text {
+	background-color: hsl(50, 70%, 70%);
+	font-size: 20pt;
+	position: fixed;
+	top: 593px;
+	left: 555px;
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+}
+.ltstory-heading {
+	font-size: 24pt;
+}
+.ltstory-image {
+	position: fixed;
+	top: 250px;
+	left: 510px;
+}
+section > article {
+	background: rgb(255, 255, 255, 40%);
+}
+.introduce-marcus {
+	position: fixed;
+	padding: 10px;
+	left: 150px;
+	top: 225px;
+	width: 250px;
+	height: 380px;
+	text-align: center;
+	
+}
+.style-text-link {
+	text-decoration: none;
+	color: black;
+	font-size: 20pt;
+}
+.know-marcus-text {
+	position: fixed;
+	left: 180px;
+	top: 500px;
+}
+.current-project {
+	position: fixed;
+	padding: 10px;
+	left: 1200px;
+	top: 300px;
+	width: 300px;
+	height: 320px;
+	text-align: center;
+}
+.current-project-text {
+	background-color: hsl(357, 100%, 60%);
+	position: fixed;
+	padding: 5px;
+	left: 1225px;
+	top: 560px;
+}
+.current-project-heading {
+	font-size: 20pt;
+}
+.current-project-image {
+	position: fixed;
+	left: 1210px;
+	top: 380px;
+}
+#warning {
+	position: fixed;
+	color: red;
+	font-size: 30pt;
+	top: 0;
+	left: 1280px;
+}
+.style-footer-link {
+	color: hsl(55, 65%, 70%);
+	text-decoration: none;
+}
